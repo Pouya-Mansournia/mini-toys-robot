@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetBathSh_2 Pin=Switch-1
+Removed Pin From Net: NetName=VS Pin=Switch-2
+Removed Member From Class: ClassName=MiniToyRobot Member=Switch
+Added Component: Designator=Sw(SPOX_1*4RIGHT)
+Added Pin To Net: NetName=NetBathSh_2 Pin=Sw-1
+Added Pin To Net: NetName=VS Pin=Sw-2
+Added Member To Class: ClassName=MiniToyRobot Member=Component Sw SPOX1*4

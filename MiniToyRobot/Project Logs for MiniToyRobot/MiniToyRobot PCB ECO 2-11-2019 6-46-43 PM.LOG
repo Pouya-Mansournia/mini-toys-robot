@@ -1,0 +1,152 @@
+Added Component: Designator=*(Programmer)
+Added Component: Designator=3(HLK)
+Added Component: Designator=34(R0805)
+Added Component: Designator=35(R0805)
+Added Component: Designator=43(R0805)
+Added Component: Designator=89(RJ45_B)
+Added Component: Designator=BUZ(Buzzer)
+Added Component: Designator=C31(Cap0805)
+Added Component: Designator=C32(Cap0805)
+Added Component: Designator=C33(Cap0805)
+Added Component: Designator=C34(Cap0805)
+Added Component: Designator=C93(Cap0805)
+Added Component: Designator=C94(Cap0805)
+Added Component: Designator=D0(Diod-1A-SMD)
+Added Component: Designator=DS6(LED_SMD0805RED)
+Added Component: Designator=DS7(LED_SMD0805RED)
+Added Component: Designator=fdcg3(Jumper)
+Added Component: Designator=I2(1206)
+Added Component: Designator=M3(64A_N)
+Added Component: Designator=POS2(R0805)
+Added Component: Designator=POS3(R0805)
+Added Component: Designator=POS(R0805)
+Added Component: Designator=POSWW(R0805)
+Added Component: Designator=PO(R0805)
+Added Component: Designator=R42(R0805)
+Added Component: Designator=R55(R0805)
+Added Component: Designator=R56(R0805)
+Added Component: Designator=Y2(Crystal)
+Added Pin To Net: NetName=MOSI Pin=*-1
+Added Pin To Net: NetName=MISO Pin=*-2
+Added Pin To Net: NetName=SCK Pin=*-3
+Added Pin To Net: NetName=RST Pin=*-4
+Added Pin To Net: NetName=GND Pin=*-6
+Added Pin To Net: NetName=VCC Pin=3-1
+Added Pin To Net: NetName=GND Pin=3-2
+Added Pin To Net: NetName=WLANLED Pin=3-3
+Added Pin To Net: NetName=3.3V Pin=3-4
+Added Pin To Net: NetName=LED_YW Pin=3-5
+Added Pin To Net: NetName=W_RST Pin=3-10
+Added Pin To Net: NetName=RD+ Pin=3-13
+Added Pin To Net: NetName=RD- Pin=3-14
+Added Pin To Net: NetName=TD- Pin=3-17
+Added Pin To Net: NetName=TD+ Pin=3-18
+Added Pin To Net: NetName=W_RX Pin=3-20
+Added Pin To Net: NetName=W_TX Pin=3-21
+Added Pin To Net: NetName=LED_GW Pin=3-23
+Added Pin To Net: NetName=Net3_25 Pin=3-25
+Added Pin To Net: NetName=VCC-1.8V Pin=3-27
+Added Pin To Net: NetName=VCC Pin=3-28
+Added Pin To Net: NetName=GND Pin=34-1
+Added Pin To Net: NetName=Net34_2 Pin=34-2
+Added Pin To Net: NetName=3.3V Pin=35-1
+Added Pin To Net: NetName=W_RST Pin=35-2
+Added Pin To Net: NetName=GND Pin=43-1
+Added Pin To Net: NetName=Net43_2 Pin=43-2
+Added Pin To Net: NetName=TD+ Pin=89-1
+Added Pin To Net: NetName=VCC-1.8V Pin=89-2
+Added Pin To Net: NetName=TD- Pin=89-3
+Added Pin To Net: NetName=RD+ Pin=89-4
+Added Pin To Net: NetName=VCC-1.8V Pin=89-5
+Added Pin To Net: NetName=RD- Pin=89-6
+Added Pin To Net: NetName=LED_YW Pin=89-11
+Added Pin To Net: NetName=Net43_2 Pin=89-12
+Added Pin To Net: NetName=LED_GW Pin=89-13
+Added Pin To Net: NetName=Net34_2 Pin=89-14
+Added Pin To Net: NetName=VCC Pin=BUZ-1
+Added Pin To Net: NetName=BUZZ Pin=BUZ-2
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=NetC31_2 Pin=C31-2
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=VCC Pin=C32-2
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=NetC34_2 Pin=C34-2
+Added Pin To Net: NetName=NetC93_1 Pin=C93-1
+Added Pin To Net: NetName=NetC93_2 Pin=C93-2
+Added Pin To Net: NetName=NetC93_1 Pin=C94-1
+Added Pin To Net: NetName=NetC94_2 Pin=C94-2
+Added Pin To Net: NetName=GND Pin=D0-A
+Added Pin To Net: NetName=NetD0_K Pin=D0-K
+Added Pin To Net: NetName=NetDS6_A Pin=DS6-A
+Added Pin To Net: NetName=GND Pin=DS6-K
+Added Pin To Net: NetName=NetDS7_A Pin=DS7-A
+Added Pin To Net: NetName=GND Pin=DS7-K
+Added Pin To Net: NetName=GND Pin=fdcg3-1
+Added Pin To Net: NetName=RST Pin=fdcg3-2
+Added Pin To Net: NetName=NetC31_2 Pin=I2-1
+Added Pin To Net: NetName=VCC Pin=I2-2
+Added Pin To Net: NetName=EN2M2 Pin=M3-14
+Added Pin To Net: NetName=RST Pin=M3-20
+Added Pin To Net: NetName=VCC Pin=M3-21
+Added Pin To Net: NetName=GND Pin=M3-22
+Added Pin To Net: NetName=NetC33_2 Pin=M3-23
+Added Pin To Net: NetName=NetC34_2 Pin=M3-24
+Added Pin To Net: NetName=IN4M2 Pin=M3-35
+Added Pin To Net: NetName=VCC Pin=M3-52
+Added Pin To Net: NetName=GND Pin=M3-53
+Added Pin To Net: NetName=GND Pin=M3-63
+Added Pin To Net: NetName=NetC31_2 Pin=M3-64
+Added Pin To Net: NetName=NetC93_2 Pin=PO-1
+Added Pin To Net: NetName=TD+ Pin=PO-2
+Added Pin To Net: NetName=NetC94_2 Pin=POS2-1
+Added Pin To Net: NetName=RD- Pin=POS2-2
+Added Pin To Net: NetName=NetC94_2 Pin=POS3-1
+Added Pin To Net: NetName=RD+ Pin=POS3-2
+Added Pin To Net: NetName=NetC93_2 Pin=POS-1
+Added Pin To Net: NetName=TD- Pin=POS-2
+Added Pin To Net: NetName=3.3V Pin=POSWW-1
+Added Pin To Net: NetName=Net3_25 Pin=POSWW-2
+Added Pin To Net: NetName=RST Pin=R42-1
+Added Pin To Net: NetName=VCC Pin=R42-2
+Added Pin To Net: NetName=NetDS6_A Pin=R55-1
+Added Pin To Net: NetName=LED2 Pin=R55-2
+Added Pin To Net: NetName=NetDS7_A Pin=R56-1
+Added Pin To Net: NetName=LED1 Pin=R56-2
+Added Pin To Net: NetName=NetC34_2 Pin=Y2-1
+Added Pin To Net: NetName=NetC33_2 Pin=Y2-2
+Added Member To Class: ClassName=MiniToyRobot Member=Component * Programmer
+Added Member To Class: ClassName=MiniToyRobot Member=Component 3 HLK_WifiModule
+Added Member To Class: ClassName=MiniToyRobot Member=Component 34 330
+Added Member To Class: ClassName=MiniToyRobot Member=Component 35 330R
+Added Member To Class: ClassName=MiniToyRobot Member=Component 43 330
+Added Member To Class: ClassName=MiniToyRobot Member=Component 89 RJ45_B
+Added Member To Class: ClassName=MiniToyRobot Member=Component BathSh SPOX1*4
+Added Member To Class: ClassName=MiniToyRobot Member=Component BUZ Buzzer
+Added Member To Class: ClassName=MiniToyRobot Member=Component C1 Cap_4mm
+Added Member To Class: ClassName=MiniToyRobot Member=Component C2 Cap_4mm
+Added Member To Class: ClassName=MiniToyRobot Member=Component C31 100NF
+Added Member To Class: ClassName=MiniToyRobot Member=Component C32 100NF
+Added Member To Class: ClassName=MiniToyRobot Member=Component C33 27pf
+Added Member To Class: ClassName=MiniToyRobot Member=Component C34 27pf
+Added Member To Class: ClassName=MiniToyRobot Member=Component C93 100nf
+Added Member To Class: ClassName=MiniToyRobot Member=Component C94 100nf
+Added Member To Class: ClassName=MiniToyRobot Member=Component D0 SS34
+Added Member To Class: ClassName=MiniToyRobot Member=Component DS6 LED1
+Added Member To Class: ClassName=MiniToyRobot Member=Component DS7 LED1
+Added Member To Class: ClassName=MiniToyRobot Member=Component fdcg3 Jumper
+Added Member To Class: ClassName=MiniToyRobot Member=Component Fuse fuse3
+Added Member To Class: ClassName=MiniToyRobot Member=Component I1 Indicator100uH
+Added Member To Class: ClassName=MiniToyRobot Member=Component I2 Indicator10uH
+Added Member To Class: ClassName=MiniToyRobot Member=Component M3 ATmega64-16AU
+Added Member To Class: ClassName=MiniToyRobot Member=Component POS2 51
+Added Member To Class: ClassName=MiniToyRobot Member=Component POS3 51
+Added Member To Class: ClassName=MiniToyRobot Member=Component POS 51
+Added Member To Class: ClassName=MiniToyRobot Member=Component POSWW 1K
+Added Member To Class: ClassName=MiniToyRobot Member=Component PO 51
+Added Member To Class: ClassName=MiniToyRobot Member=Component R42 8.2K
+Added Member To Class: ClassName=MiniToyRobot Member=Component R55 Res 0805
+Added Member To Class: ClassName=MiniToyRobot Member=Component R56 Res 0805
+Added Member To Class: ClassName=MiniToyRobot Member=Component Sw SPOX1*4
+Added Member To Class: ClassName=MiniToyRobot Member=Component Y2 Xtal

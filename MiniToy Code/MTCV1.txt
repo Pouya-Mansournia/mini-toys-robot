@@ -1,0 +1,48 @@
+        PORTE.4=1;
+        PORTE.5=0;      //White-Yellow LEft
+        PORTB.5=1;
+        
+        delay_ms(5000);
+      
+        PORTE.4=0;
+        PORTE.5=1;      //White-Yellow LEft
+        PORTB.5=1;
+        
+        delay_ms(5000); 
+        
+        
+              PORTE.2=0;
+      PORTE.3=1;       //Red-Black Left
+      PORTB.4=1;
+      
+              delay_ms(5000); 
+
+      PORTE.2=1;
+      PORTE.3=0;       //Red-Black Left
+      PORTB.4=1;
+      delay_ms(5000);
+      
+
+      
+
+      
+
+      
+      
+      
+      
+            //PORTA.0=1; // LED
+      PORTA.1=1; // LED    
+      PORTC.3=1; // BUZZ
+      
+      
+      
+            E=getchar();
+      if(E == 'X')
+        {
+            PORTA.2=0;
+        }
+      else 
+        {
+            PORTA.2=1;
+        }

@@ -1,0 +1,4 @@
+Added Component: Designator=Ct3(SPOX_1*4RIGHT)
+Added Component: Designator=Ct4(SPOX_1*4RIGHT)
+Added Member To Class: ClassName=MiniToyRobot Member=Component Ct3 SPOX1*4
+Added Member To Class: ClassName=MiniToyRobot Member=Component Ct4 SPOX1*4

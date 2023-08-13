@@ -1,0 +1,3 @@
+Added Component: Designator=c1(SPOX_1*4RIGHT)
+Added Member To Class: ClassName=HLK Member=Component 3 HLK_WifiModule
+Added Member To Class: ClassName=HLK Member=Component c1 SPOX1*4

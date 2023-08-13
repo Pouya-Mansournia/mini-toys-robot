@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=IN1M1 Pin=*-3
+Added Pin To Net: NetName=MOSI Pin=M3-12
+Added Pin To Net: NetName=MISO Pin=M3-13

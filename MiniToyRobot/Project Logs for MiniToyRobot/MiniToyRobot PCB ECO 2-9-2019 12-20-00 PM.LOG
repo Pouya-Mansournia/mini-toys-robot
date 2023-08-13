@@ -1,0 +1,11 @@
+Added Component: Designator=*(Indicator_SMD)
+Added Component: Designator=*(LM2576S)
+Added Component: Designator=*(RJ45_B)
+Added Component: Designator=*(HLK)
+Added Component: Designator=U?(64A_N)
+Added Member To Class: ClassName=MiniToyRobot Member=Component * Indicator100uH
+Added Member To Class: ClassName=MiniToyRobot Member=Component * LM2576S
+Added Member To Class: ClassName=MiniToyRobot Member=Component * RJ45_B
+Added Member To Class: ClassName=MiniToyRobot Member=Component * HLK_WifiModule
+Added Member To Class: ClassName=MiniToyRobot Member=Component U? ATmega64-16AU
+Added Room: Name=MiniToyRobot

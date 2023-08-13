@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=OUT1-1 Pin=DM2-2
+Removed Pin From Net: NetName=OUT2-1 Pin=DM2-3
+Removed Member From Class: ClassName=MiniToyRobot Member=Sc1
+Removed Member From Class: ClassName=MiniToyRobot Member=Sc2
+Removed Member From Class: ClassName=MiniToyRobot Member=Sc3
+Removed Member From Class: ClassName=MiniToyRobot Member=Sc4
+Added Pin To Net: NetName=OUT2-1 Pin=DM2-2
+Added Pin To Net: NetName=OUT1-1 Pin=DM2-3
+Added Room: Name=MiniToyRobot

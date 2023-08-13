@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=VCC Pin=Ct8-4
+Added Pin To Net: NetName=LED3 Pin=Ct8-1
+Added Pin To Net: NetName=LED3 Pin=M3-47
+Added Net: Name=LED3
+Added Pin To Net: NetName=LED4 Pin=Ct8-2
+Added Pin To Net: NetName=LED4 Pin=M3-48
+Added Net: Name=LED4
+Added Pin To Net: NetName=LED5 Pin=Ct8-3
+Added Pin To Net: NetName=LED5 Pin=M3-49
+Added Net: Name=LED5
+Added Room: Name=MiniToyRobot

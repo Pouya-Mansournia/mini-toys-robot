@@ -1,0 +1,55 @@
+Change Component Designator: OldDesignator=* NewDesignator=E1
+Change Component Designator: OldDesignator=* NewDesignator=I1
+Change Component Designator: OldDesignator=* NewDesignator=M1
+Change Component Designator: OldDesignator=* NewDesignator=M2
+Change Component Designator: OldDesignator=U? NewDesignator=M3
+Added Component: Designator=BathSh(SPOX_1*4RIGHT)
+Added Component: Designator=C1(Cap_4mm)
+Added Component: Designator=C2(Cap_4mm)
+Added Component: Designator=D1(Diod-1A-SMD)
+Added Component: Designator=Fuse(fuse_SMD0805)
+Added Component: Designator=Switch(SPOX1*4)
+Added Pin To Net: NetName=GND Pin=BathSh-1
+Added Pin To Net: NetName=GND Pin=BathSh-3
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=D1-A
+Added Pin To Net: NetName=GND Pin=DM1-8
+Added Pin To Net: NetName=GND Pin=DM2-8
+Added Pin To Net: NetName=GND Pin=M1-3
+Added Pin To Net: NetName=GND Pin=M1-3
+Added Pin To Net: NetName=GND Pin=M1-5
+Added Net: Name=GND
+Added Pin To Net: NetName=NetBathSh_2 Pin=BathSh-2
+Added Pin To Net: NetName=NetBathSh_2 Pin=Fuse-2
+Added Pin To Net: NetName=NetBathSh_2 Pin=Switch-1
+Added Net: Name=NetBathSh_2
+Added Pin To Net: NetName=NetBathSh_4 Pin=BathSh-4
+Added Pin To Net: NetName=NetBathSh_4 Pin=Fuse-1
+Added Net: Name=NetBathSh_4
+Added Pin To Net: NetName=NetD1_K Pin=D1-K
+Added Pin To Net: NetName=NetD1_K Pin=I1-1
+Added Pin To Net: NetName=NetD1_K Pin=M1-2
+Added Net: Name=NetD1_K
+Added Pin To Net: NetName=VCC Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=DM1-9
+Added Pin To Net: NetName=VCC Pin=DM2-9
+Added Pin To Net: NetName=VCC Pin=I1-2
+Added Pin To Net: NetName=VCC Pin=M1-4
+Added Net: Name=VCC
+Added Pin To Net: NetName=VS Pin=C1-2
+Added Pin To Net: NetName=VS Pin=DM1-4
+Added Pin To Net: NetName=VS Pin=DM2-4
+Added Pin To Net: NetName=VS Pin=M1-1
+Added Pin To Net: NetName=VS Pin=Switch-2
+Added Net: Name=VS
+Added Member To Class: ClassName=MiniToyRobot Member=Component BathSh SPOX1*4
+Added Member To Class: ClassName=MiniToyRobot Member=Component C1 Cap_4mm
+Added Member To Class: ClassName=MiniToyRobot Member=Component C2 Cap_4mm
+Added Member To Class: ClassName=MiniToyRobot Member=Component D1 SS34
+Added Member To Class: ClassName=MiniToyRobot Member=Component E1 RJ45_B
+Added Member To Class: ClassName=MiniToyRobot Member=Component Fuse fuse3
+Added Member To Class: ClassName=MiniToyRobot Member=Component M1 LM2576S
+Added Member To Class: ClassName=MiniToyRobot Member=Component M2 HLK_WifiModule
+Added Member To Class: ClassName=MiniToyRobot Member=Component Switch SPOX1*4
+Added Room: Name=MiniToyRobot
